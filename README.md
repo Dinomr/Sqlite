@@ -22,7 +22,7 @@ Esta sentencias nos retorna todas las tablas que hayamos creado junto
 sus conlumnas
 
 <div style="text-align: center;">
-<img src="./images/2.png">
+<img src="./images/2.PNG">
 </div>
 
 ## Date and time functions
@@ -48,7 +48,7 @@ sus conlumnas
     * %%		%
 
 <div style="text-align: center;">
-<img src="./images/3.png">
+<img src="./images/3.PNG">
 </div>
 
 ## Primary key constraint
@@ -58,7 +58,7 @@ diferentes tablas de la base de datos. No puede ser un valor nulo ni tampoco est
 duplicado este valor, ya que es el identificador unicó.
 
 <div style="text-align: center;">
-<img src="./images/4.png">
+<img src="./images/4.PNG">
 </div>
 
 ## NOT NULL constraint
@@ -68,7 +68,7 @@ creación de una tabla cuando no queremos que dejen vacio ese campo, por lo que 
 hace que sea obligatorio.
 
 <div style="text-align: center;">
-<img src="./images/5.png">
+<img src="./images/5.PNG">
 </div>
 
 ## UNIQUE
@@ -78,7 +78,7 @@ realizar relaciones, esto puede ser aplicado a número de documentos, correos,
 dirrecciones, etc.
 
 <div style="text-align: center;">
-<img src="./images/6.png">
+<img src="./images/6.PNG">
 </div>
 
 ## DEFAULT
@@ -87,7 +87,7 @@ Esta restriccion va a ser que el campo tenga un valor por defecto, por lo que ta
 se puede usar para evitar valores nulos.
 
 <div style="text-align: center;">
-<img src="./images/7.png">
+<img src="./images/7.PNG">
 </div>
 
 ## CHECK
@@ -97,7 +97,7 @@ nosostros podemos establecer la conidición necesaria para que permita ingresar 
 información del campo.
 
 <div style="text-align: center;">
-<img src="./images/8.png">
+<img src="./images/8.PNG">
 </div>
 
 ## ALTER TABLE
@@ -107,7 +107,7 @@ cuando ya  tiene registros la base de datos. Nos permite cambiar las restriccion
 renombrarlo, añadir o eliminarlo.
 
 <div style="text-align: center;">
-<img src="./images/9.png">
+<img src="./images/9.PNG">
 </div>
 
 ## DELETE, DROP
@@ -116,11 +116,11 @@ La sentencia delete nos sirve para eliminar un registro y el drop para eliminar 
 o columna.
 
 <div style="text-align: center;">
-<img src="./images/9.png">
+<img src="./images/9.PNG">
 </div>
 
 <div style="text-align: center;">
-<img src="./images/10.png">
+<img src="./images/10.PNG">
 </div>
 
 ## BACKUP, RESTORE
@@ -129,5 +129,5 @@ Backuo crea una copia de la base de datos y restore lo que va a hacer es restaur
 backup que hicimos, es decir devolver todo como estaba, todo lo que pudimos guardar.
 
 <div style="text-align: center;">
-<img src="./images/12.png">
+<img src="./images/12.PNG">
 </div>

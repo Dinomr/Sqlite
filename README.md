@@ -21,7 +21,9 @@ o conjunto de registros que debe modificar.
 Esta sentencias nos retorna todas las tablas que hayamos creado junto
 sus conlumnas
 
-![](./images/1.png)
+<div style="text-align: center;">
+<img src="./images/2.png">
+</div>
 
 ## Date and time functions
 

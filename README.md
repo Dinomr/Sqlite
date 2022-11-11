@@ -13,7 +13,7 @@ y va siempre acompañado de la clausula where para saber cual es el registro
 o conjunto de registros que debe modificar.
 
 <div style="text-align: center;">
-<img src="./images/1.png">
+<img src="./images/1.PNG">
 </div>
 
 ## .SCHEMA
